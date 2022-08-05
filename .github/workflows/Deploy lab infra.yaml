@@ -4,7 +4,7 @@ on:
 name: deploy lab infra
 jobs:
   deploy:
-    environment: lab
+    #environment: lab
     runs-on: ubuntu-latest
     steps:
       # Checkout code
