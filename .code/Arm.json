@@ -9,6 +9,7 @@
          "apiVersion": "2021-09-01",
          "name": "[parameters('uniqueStorageName')]",
          "location": "[parameters('location')]",
+         
          "sku": {
          "name": "[parameters('storageSKU')]"
                 },

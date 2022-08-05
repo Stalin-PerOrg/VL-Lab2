@@ -9,7 +9,7 @@
             "value": "sta01"
         },
         "storageSKU": {
-            "value": ""
+            "value": "Standard_LRS"
         }
     }
 }
